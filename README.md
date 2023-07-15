@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm him 👋
 
+I mainly develop mods for games such as RotMG. I also am mainly focused on 
+reverse engineering, malware, Windows internals and they interact. I also contribute to OSS sometimes.
+
+💫 [rotmg.network](https://.rotmg.network) - a hub for RotMG tools, mods, info, game data API and build data  
+✨ [api.rotmg.network](https://api.rotmg.network) - API for retrieving current and historic game data and real-time in-game object tracking  
+⚡ [builds.rotmg.network](https://builds.rotmg.network) - RotMG builds can be found indexed at the build tracker with extra info for reverse engineers and developers  
+
+Email: [im@him.is](mailto:im@him.is) - XMPP: o@exploit.im - Discord: him#0001
 <!--
 **abrn/abrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
