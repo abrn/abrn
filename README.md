@@ -1,7 +1,7 @@
 ### Hi, I'm him 👋
 
 I mainly develop mods for games such as RotMG. I also am mainly focused on 
-reverse engineering, malware, Windows internals and they interact. I also contribute to OSS sometimes.
+reverse engineering, malware, Windows internals and how they interact. I'm a database engineer by day but cheat engineer by night. I also contribute to OSS sometimes.
 
 💫 [rotmg.network](https://.rotmg.network) - a hub for RotMG tools, mods, info, game data API and build data  
 ✨ [api.rotmg.network](https://api.rotmg.network) - API for retrieving current and historic game data and real-time in-game object tracking  
